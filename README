@@ -26,11 +26,8 @@ No specific dependencies.
 3. Installation
 ------------------------------------
 
-Download the files
-..
-
-Extract
-$ tar -xvzf cConfig.tar.gz
+Get the files
+$ git clone https://github.com/niels07/cConfig.git
 
 Build the source files
 $ cd cConfig
